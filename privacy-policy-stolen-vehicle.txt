@@ -1,0 +1,71 @@
+## **Privacy Policy**
+
+**Effective Date:** 2025-10-09
+
+**Stolen Vehicle Scanner** (“the App”, “we”, “us”, or “our”) is developed by **hankchiu.tw**.
+Your privacy is important to us. This Privacy Policy explains how we handle information when you use our app.
+
+---
+
+### **1. Information We Do Not Collect**
+
+We do **not collect**, store, or share any personal information such as your name, email address, phone number, or other identifiers.
+We do not create user accounts, and we do not track user activity for analytics or advertising purposes.
+
+---
+
+### **2. Permissions We Use**
+
+To provide the core functionality of the app, we request the following permissions:
+
+* **Camera:** Used to scan license plates for recognition purposes.
+* **Location:** Used to help verify the area where a vehicle is scanned (optional feature).
+* **Storage:** Used to temporarily save images or scan results locally on your device.
+
+All data accessed through these permissions is processed **locally on your device** and **never transmitted to any external server**.
+
+---
+
+### **3. Data Storage**
+
+All scan data and related information are stored **only on your device**.
+We do not maintain or control any remote databases or cloud storage for user data.
+
+---
+
+### **4. Third-Party Services**
+
+The app does **not use** any third-party services, SDKs, or analytics tools such as Google Analytics, Firebase, or AdMob.
+
+---
+
+### **5. Data Sharing**
+
+We do **not share** any data with third parties.
+Because all processing happens locally, no personal or usage data leaves your device.
+
+---
+
+### **6. Children’s Privacy**
+
+Our app is **not directed to children under 13 years old**, and we do not knowingly collect any data from children.
+
+---
+
+### **7. Security**
+
+Since all data remains on your device, the security of your information depends on your device’s own protection (e.g., operating system security and access control). We recommend using standard device security measures such as screen locks.
+
+---
+
+### **8. Changes to This Policy**
+
+We may update this Privacy Policy from time to time. When changes occur, we will update the effective date above.
+You are encouraged to review this page periodically for any updates.
+
+---
+
+### **9. Contact Us**
+
+If you have any questions about this Privacy Policy or the app’s data handling, please contact us at:
+📧 **[hankchiu.tw@gmail.com](mailto:hankchiu.tw@gmail.com)**
