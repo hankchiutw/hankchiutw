@@ -1,32 +1,39 @@
-# Hi there, I'm Hank Chiu 👋
+# Hi, I'm Hank Chiu 👋
 
 **Web Development Expert | Senior Software Engineer**
 
 I'm a results-driven Senior Software Engineer with extensive experience in building and scaling web applications from the ground up. I combine deep expertise in modern front-end architecture with proven back-end development skills to deliver robust, end-to-end solutions. I thrive in the fast-paced, high-impact environment of startups, embracing the challenge of building products from concept to scale.
 
-## 🚀 What I Do
+## 🚀 How I Deliver Value
 
-- **Frontend Architecture**: Modernizing legacy codebases and implementing scalable SPA architectures
-- **Full-Stack Development**: Building complete solutions from database design to user interfaces
-- **Performance Optimization**: Reducing page loading times and eliminating performance bottlenecks
-- **Team Leadership**: Mentoring engineers and establishing coding guidelines for consistency
+  * **Lean Product Delivery**: Build full-stack products in lean teams with focus on long-term scalability
+  * **AI-Enhanced Development**: Integrate AI tools and workflow to boost development speed while maintaining quality
+  * **System Modernization**: Modernize legacy systems, improve structure, and reduce production issues
+  * **Team Growth**: Mentor engineers and strengthen team practices for sustainable growth
 
 ## 🛠️ Technical Skills
 
 | Category | Technologies |
 |----------|-------------|
-| **Frontend** | TypeScript, JavaScript, Angular, React, RxJS |
-| **Backend** | Node.js, RESTful API Design, Nest.js |
-| **Databases** | MongoDB, PostgreSQL |
-| **Cloud & Infrastructure** | AWS (EC2), Docker |
-| **Build Tools & DevOps** | Webpack, Vite, Sentry |
-| **Desktop Development** | Electron |
-| **Architecture & Design** | Feature-Sliced Design, Microservices, SPA Architecture |
-| **Development Practices** | Code Refactoring, Clean Code Principles, Performance Optimization |
+| **AI development** | Claude Code, Codex, GitHub Copilot, OpenCode, Langfuse |
+| **Frontend** | TypeScript, JavaScript, Next.js, React, Angular, RxJS, Vue |
+| **Backend** | Node.js, Bun runtime, Elysia.js, Nest.js, Fastify, RESTful API Design |
+| **Databases** | PostgreSQL, Firestore |
+| **Cloud & Infrastructure** | GCP (Compute Engine, Cloud Build, Cloud Run, Cloud Storage), Firebase, Terraform, Docker |
+| **Build Tools & DevOps** | Vite, Bun, Sentry |
+| **Architecture & Design** | Feature-Sliced Design, Microservices, SPA Architecture, C4 Models |
+| **Development Practices** | Code Refactoring, Clean Code Principles |
 
 ## 💼 Professional Experience
 
 See LinkedIn: [linkedin.com/in/hankchiutw](https://www.linkedin.com/in/hankchiutw)
+
+## 📝 Selected Projects
+
+- [MedFolder](https://medfolder.app): AI-assisted medication record Web PWA for families.
+- [git-ca](https://github.com/hankcraft/git-ca): A Git subcommand for drafting commit messages and PR descriptions by AI .
+- [Coxy](https://coxy.vercel.app): GitHub Copilot as OpenAI-compatible APIs
+- [hankchiu.tw](https://hankchiu.tw): Personal website
 
 ## 📈 My Approach
 
